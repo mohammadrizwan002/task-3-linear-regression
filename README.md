@@ -1,4 +1,5 @@
 # Task 3 - Linear Regression (House Price Prediction)
+(ELEVATE LABS AIML INTERNSHIP MAY-2025)
 
 What I Did:
 In this project, I used linear regression to predict housing prices based on different features like area, bedrooms, location, etc.
